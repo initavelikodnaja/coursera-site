@@ -57,7 +57,8 @@ body{
 }
 
 #title-three{
-  background-color: #E5D198;
+  background-color: #E5D198
+  color: #FFFFFF;
 }
 
 /* Simple Responsive Framework. */
