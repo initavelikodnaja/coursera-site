@@ -1,5 +1,6 @@
 Peer-graded Assignment: Module 2 Coding Assignment
-https://initavelikodnaja.github.io/coursera-site/module2-solution/index.html
+**Link to my assignment:
+**https://initavelikodnaja.github.io/coursera-site/module2-solution/index.html
 
 
 # Module 2 Coding Assignment
